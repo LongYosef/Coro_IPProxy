@@ -1,10 +1,10 @@
 # coding:utf-8
 import random
-from DIYIPProxy.baseconfig import get_header
-from DIYIPProxy.sqlhelper import Sqlhandler
-from DIYIPProxy.baseconfig import parserList
-from DIYIPProxy.baseconfig import VALID_URL,TEST_HTTP_URL,TEST_HTTPS_URL
-from DIYIPProxy.logger import proxylog,handler_remove
+from baseconfig import get_header
+from sqlhelper import Sqlhandler
+from baseconfig import parserList
+from baseconfig import VALID_URL,TEST_HTTP_URL,TEST_HTTPS_URL
+from logger import proxylog,handler_remove
 
 import aiohttp
 import async_timeout
