@@ -1,0 +1,5 @@
+# Coro_IPProxy
+模仿500line中的crawler项目和七夜的IPProxy项目，使用asyncio和aiohttp完成的ip代理池异步爬虫
+
+并发逻辑参考500lines项目中的crawler项目，验证逻辑参考IPProxy。
+合格的IP存入Mysql数据库。
