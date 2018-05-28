@@ -2,7 +2,7 @@
 import logging
 import sys
 
-proxy_log_path='D:\\Anaconda3\\Lib\\DIYIPProxy\\proxylog.log'
+proxy_log_path='你的路径\\proxylog.log'
 logformat='%(asctime)s-%(filename)s[line:%(lineno)d]-%(levelname)s:%(message)s'
 
 Formatter=logging.Formatter(logformat)
