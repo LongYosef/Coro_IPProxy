@@ -89,7 +89,7 @@ parserList = [
 '''
 DB_CONFIG = {
 
-    'DB_CONNECT_STRING': "mysql+pymysql://root:LearnPy@localhost:3306/LearnPy?charset=utf8"
+    'DB_CONNECT_STRING': "mysql+pymysql://root:密码@localhost:3306/数据库名?charset=utf8"
 
 }
 
